@@ -1,1 +1,1 @@
-
+Created an interactive calculator using HTML, CSS, and JavaScript, featuring buttons for addition, subtraction, multiplication, and division operations. Designed with a clean interface, the calculator includes a display screen for user input and results, providing a simple yet functional tool for basic arithmetic tasks
